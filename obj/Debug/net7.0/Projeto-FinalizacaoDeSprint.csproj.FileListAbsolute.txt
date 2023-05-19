@@ -1,0 +1,15 @@
+C:\Users\53144094889\Desktop\Projeto-FinalizacaoDeSprint\bin\Debug\net7.0\Projeto-FinalizacaoDeSprint.exe
+C:\Users\53144094889\Desktop\Projeto-FinalizacaoDeSprint\bin\Debug\net7.0\Projeto-FinalizacaoDeSprint.deps.json
+C:\Users\53144094889\Desktop\Projeto-FinalizacaoDeSprint\bin\Debug\net7.0\Projeto-FinalizacaoDeSprint.runtimeconfig.json
+C:\Users\53144094889\Desktop\Projeto-FinalizacaoDeSprint\bin\Debug\net7.0\Projeto-FinalizacaoDeSprint.dll
+C:\Users\53144094889\Desktop\Projeto-FinalizacaoDeSprint\bin\Debug\net7.0\Projeto-FinalizacaoDeSprint.pdb
+C:\Users\53144094889\Desktop\Projeto-FinalizacaoDeSprint\obj\Debug\net7.0\Projeto-FinalizacaoDeSprint.csproj.AssemblyReference.cache
+C:\Users\53144094889\Desktop\Projeto-FinalizacaoDeSprint\obj\Debug\net7.0\Projeto-FinalizacaoDeSprint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53144094889\Desktop\Projeto-FinalizacaoDeSprint\obj\Debug\net7.0\Projeto-FinalizacaoDeSprint.AssemblyInfoInputs.cache
+C:\Users\53144094889\Desktop\Projeto-FinalizacaoDeSprint\obj\Debug\net7.0\Projeto-FinalizacaoDeSprint.AssemblyInfo.cs
+C:\Users\53144094889\Desktop\Projeto-FinalizacaoDeSprint\obj\Debug\net7.0\Projeto-FinalizacaoDeSprint.csproj.CoreCompileInputs.cache
+C:\Users\53144094889\Desktop\Projeto-FinalizacaoDeSprint\obj\Debug\net7.0\Projeto-FinalizacaoDeSprint.dll
+C:\Users\53144094889\Desktop\Projeto-FinalizacaoDeSprint\obj\Debug\net7.0\refint\Projeto-FinalizacaoDeSprint.dll
+C:\Users\53144094889\Desktop\Projeto-FinalizacaoDeSprint\obj\Debug\net7.0\Projeto-FinalizacaoDeSprint.pdb
+C:\Users\53144094889\Desktop\Projeto-FinalizacaoDeSprint\obj\Debug\net7.0\Projeto-FinalizacaoDeSprint.genruntimeconfig.cache
+C:\Users\53144094889\Desktop\Projeto-FinalizacaoDeSprint\obj\Debug\net7.0\ref\Projeto-FinalizacaoDeSprint.dll
